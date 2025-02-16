@@ -12,15 +12,7 @@ I'm interested in a lot of project and love a lot of diffenret type of projects.
 
 #
 
-My tools : 
-
-- C, C++, Java, javascript, SQL, BASH, python, html, css
-
-- Linux, git, Ardiuno
-
-#
-
-I'm keeping my old pseudo for nostalgia sake 
+<!-- I'm keeping my old pseudo for nostalgia sake -->
 
 
 <!--
