@@ -1,6 +1,34 @@
-## Hi there 👋
+
+# Hi !!
+
+
+I'm Gély Léandre
+
+#
+
+I'm an computer science engineering student passionate about science, music, creating, computer and programming. I always loved learning. 
+
+I'm interested in a lot of project and love a lot of diffenret type of projects. Except IA.
+
+#
+
+My tools : 
+
+- C, C++, Java, javascript, SQL, BASH, python, html, css
+
+- Linux, git, Ardiuno
+
+#
+
+I'm keeping my old pseudo for nostalgia sake 
+
 
 <!--
+I'm letting this comment here to have quicl access to the emojis
+
+
+## Hi there 👋
+
 **Zaynn-lea/Zaynn-lea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
