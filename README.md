@@ -10,9 +10,10 @@ I'm an computer science engineering student passionate about science, music, cre
 
 I'm interested in a lots of projects and love a lots of different types of projects. Except IA.
 
+<!-- 
 #
 
-<!-- I'm keeping my old pseudo for nostalgia sake -->
+I'm keeping my old pseudo for nostalgia sake -->
 
 
 <!--
