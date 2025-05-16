@@ -8,7 +8,7 @@ I'm Gély Léandre
 
 I'm an computer science engineering student passionate about science, music, creating, computer and programming. I have always loved learning. 
 
-I'm interested in a lots of projects and love a lots of different types of projects. Except IA.
+I'm interested in a lots of projects and love a lots of different types of projects. Except AI.
 
 <!-- 
 #
